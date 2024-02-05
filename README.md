@@ -285,9 +285,19 @@ Inferred merged/mirrored_patient0079_2CH_ED.jpg<br>
 <h3>
 References
 </h3>
-<b>1. Improved UNet with Attention for Medical Image Segmentation</b><br>
+<b>1. Deep Learning for Segmentation using an Open Large-Scale Dataset in 2D Echocardiography</b><br>
+Sarah Leclerc, Erik Smistad, Joao Pedrosa, Andreas Østvik, Frederic Cervenansky, Florian Espinosa, <br>
+Torvald Espeland, Erik Andreas Rye Berg, Pierre-Marc Jodoin, Thomas Grenier, Carole Lartizien, Jan D’hooge,<br>
+Lasse Lovstakken, and Olivier Bernard <br>
+<pre>
+https://www.creatis.insa-lyon.fr/Challenge/camus/files/tmi_2019_leclerc.pdf
+</pre>
+
+<b>2. Improved UNet with Attention for Medical Image Segmentation</b><br>
 Ahmed AL Qurri and Mohamed Almekkawy <br>
 Sensors 2023, 23(20), 8589; https://doi.org/10.3390/s23208589<br>
 <pre>
 https://www.mdpi.com/1424-8220/23/20/8589
 </pre>
+
+
