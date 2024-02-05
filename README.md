@@ -1,8 +1,10 @@
 <h2>Tensorflow-Image-Segmentation-Cardiac-Acquisitions (2024/02/05)</h2>
 
 This is an experimental Image Segmentation project for Cardiac-Acquisitions based on
-the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>.
-<br>
+the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>
+and an augmented CAMUS_public (Cardiac Acquisitions for Multi-structure Ultrasound Segmentation) dataset. <br>
+Please see also <a href="https://github.com/atlan-antillia/CAMUS_public-ImageMask-Dataset">CAMUS_public-ImageMask-Dataset.</a><br>
+
 As a first trial, we use the simple UNet Model 
 <a href="./src/TensorflowUNet.py">TensorflowSlightlyFlexibleUNet</a> for this Cardiac-Acquisitions Segmentation.<br>
 As shown in <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>.
@@ -17,7 +19,7 @@ you may try other Tensorflow UNet Models:<br>
 
 <br>
 
-<h3>1. Dataset Citatioin</h3>
+<h3>1. Dataset Citation</h3>
 <a href="https://www.creatis.insa-lyon.fr/Challenge/camus/databases.html">
 CAMUS<br>
 Cardiac Acquisitions for Multi-structure Ultrasound Segmentation<br>
